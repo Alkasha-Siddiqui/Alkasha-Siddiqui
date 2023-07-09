@@ -34,4 +34,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alkasha-siddiqui&show_icons=true&locale=en" alt="alkasha-siddiqui" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alkasha-siddiqui&" alt="alkasha-siddiqui" /></p>
